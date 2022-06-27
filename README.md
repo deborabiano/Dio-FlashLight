@@ -26,4 +26,4 @@ Desafio DIO: Construindo um App usando Sensor de Movimento com React Native
 
 [Como instalar e utilizar o Chocolatey](https://www.youtube.com/watch?v=1T5sjwAk65g)
 
-[Emulador Android Studio](https://docs.expo.dev/workflow/android-studio-emulator/)
+[Android Studio Emulador](https://docs.expo.dev/workflow/android-studio-emulator/)
