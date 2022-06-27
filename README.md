@@ -18,10 +18,10 @@ Desafio DIO: Construindo um App usando Sensor de Movimento com React Native
 
 ## Links Uteis
 
-[Introdução ao React] (https://reactnative.dev/docs/getting-started)
+[Introdução ao React](https://reactnative.dev/docs/getting-started)
 
-[React Instalação/Configuração] (https://reactnative.dev/docs/environment-setup)
+[React Instalação/Configuração](https://reactnative.dev/docs/environment-setup)
 
-[Chocolatey Instalação/Configuração] (https://docs.chocolatey.org/en-us/choco/setup#non-administrative-install)
+[Chocolatey Instalação/Configuração](https://docs.chocolatey.org/en-us/choco/setup#non-administrative-install)
 
-[Como instalar e utilizar o Chocolatey] (https://www.youtube.com/watch?v=1T5sjwAk65g)
+[Como instalar e utilizar o Chocolatey](https://www.youtube.com/watch?v=1T5sjwAk65g)
