@@ -25,3 +25,5 @@ Desafio DIO: Construindo um App usando Sensor de Movimento com React Native
 [Chocolatey Instalação/Configuração](https://docs.chocolatey.org/en-us/choco/setup#non-administrative-install)
 
 [Como instalar e utilizar o Chocolatey](https://www.youtube.com/watch?v=1T5sjwAk65g)
+
+[Emulador Android Studio](https://docs.expo.dev/workflow/android-studio-emulator/)
